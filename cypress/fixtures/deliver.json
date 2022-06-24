@@ -1,0 +1,50 @@
+{
+    "signup" : {
+        "name": "Luiz Toledo",
+        "cpf": "10881311901",
+        "email": "luizsigtoledo@gmail.com",
+        "whatsapp": "41999022244",
+        "address": {
+            "postalcode": "81560150",
+            "street": "Rua Gabirobas",
+            "number": "148",
+            "detais": "Tirol das Torres - Casa 31",
+            "district": "Uberaba",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Luiz Augusto",
+        "cpf": "108813119AA",
+        "email": "luizaugusto@gmail.com",
+        "whatsapp": "41944222099",
+        "address": {
+            "postalcode": "81560150",
+            "street": "Rua Gabirobas",
+            "number": "148",
+            "detais": "Tirol das Torres - Casa 31",
+            "district": "Uberaba",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Luiz Toledo",
+        "cpf": "10881311901",
+        "email": "luizsemcaractergmail.com",
+        "whatsapp": "41999022244",
+        "address": {
+            "postalcode": "81560150",
+            "street": "Rua Gabirobas",
+            "number": "148",
+            "detais": "Tirol das Torres - Casa 31",
+            "district": "Uberaba",
+            "city_state": "Curitiba/PR"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
